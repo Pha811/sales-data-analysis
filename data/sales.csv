@@ -1,0 +1,25 @@
+Date,Order_ID,Product,Category,Quantity,Unit_Price,City
+2026-01-05,ORD001,Laptop,Electronics,1,18500000,HCMC
+2026-01-07,ORD002,Mouse,Accessories,3,350000,Hanoi
+2026-01-12,ORD003,Keyboard,Accessories,2,850000,HCMC
+2026-01-18,ORD004,Monitor,Electronics,1,5200000,Da Nang
+2026-02-02,ORD005,Laptop,Electronics,1,19500000,Hanoi
+2026-02-08,ORD006,Mouse,Accessories,5,320000,HCMC
+2026-02-15,ORD007,Headset,Accessories,2,1250000,Da Nang
+2026-02-21,ORD008,Keyboard,Accessories,3,790000,Hanoi
+2026-03-03,ORD009,Monitor,Electronics,2,4900000,HCMC
+2026-03-10,ORD010,Laptop,Electronics,1,21000000,Da Nang
+2026-03-17,ORD011,Mouse,Accessories,4,330000,Hanoi
+2026-03-25,ORD012,Headset,Accessories,3,1190000,HCMC
+2026-04-04,ORD013,Keyboard,Accessories,2,820000,Da Nang
+2026-04-11,ORD014,Monitor,Electronics,2,5100000,Hanoi
+2026-04-19,ORD015,Laptop,Electronics,1,19800000,HCMC
+2026-04-27,ORD016,Mouse,Accessories,6,310000,Da Nang
+2026-05-05,ORD017,Headset,Accessories,2,1290000,Hanoi
+2026-05-13,ORD018,Keyboard,Accessories,4,800000,HCMC
+2026-05-20,ORD019,Monitor,Electronics,1,5300000,Da Nang
+2026-05-28,ORD020,Laptop,Electronics,1,20500000,Hanoi
+2026-06-06,ORD021,Mouse,Accessories,5,340000,HCMC
+2026-06-14,ORD022,Headset,Accessories,3,1220000,Da Nang
+2026-06-22,ORD023,Keyboard,Accessories,2,860000,Hanoi
+2026-06-29,ORD024,Monitor,Electronics,2,5000000,HCMC
